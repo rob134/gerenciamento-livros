@@ -7,8 +7,6 @@ Este projeto é um sistema de gerenciamento de livros, desenvolvido com .NET Cor
 2. [Configuração do Backend](#configuração-do-backend)
 3. [Configuração do Frontend](#configuração-do-frontend)
 4. [Como Rodar o Projeto](#como-rodar-o-projeto)
-5. [Testes](#testes)
-6. [Contribuição](#contribuição)
 
 ## Requisitos
 
@@ -72,26 +70,4 @@ Antes de começar, verifique se você possui as seguintes ferramentas instaladas
 2. Inicie o Frontend:
 
    Navegue para o diretório do frontend frontend (gerenciamento-livros-frontend) e execute o comando `ng serve`. O frontend estará acessível em [http://localhost:4200](http://localhost:4200).
-
-## Testes
-
-Para o Backend:
-
-Execute os testes unitários com o comando:
-
-```bash
-dotnet test
-
-
-Para o Frontend:
-
-Execute os testes unitários com o comando:
-
-```bash
-ng test
-
-
-## Contribuilção
-
-Sinta-se à vontade para contribuir com o projeto! Se você encontrar algum problema ou tiver uma ideia para melhorias, abra um issue ou envie um pull request.
 
