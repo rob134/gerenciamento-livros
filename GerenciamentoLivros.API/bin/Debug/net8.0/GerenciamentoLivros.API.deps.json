@@ -9,6 +9,7 @@
       "GerenciamentoLivros.API/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "8.0.8",
+          "Microsoft.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.InMemory": "8.0.8",
           "Swashbuckle.AspNetCore": "6.4.0"
         },

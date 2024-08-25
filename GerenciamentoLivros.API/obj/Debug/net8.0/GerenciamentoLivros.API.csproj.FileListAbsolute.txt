@@ -1,3 +1,11 @@
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.csproj.AssemblyReference.cache
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.AssemblyInfoInputs.cache
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.AssemblyInfo.cs
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.csproj.CoreCompileInputs.cache
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.sourcelink.json
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\bin\Debug\net8.0\appsettings.json
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\bin\Debug\net8.0\GerenciamentoLivros.API.exe
@@ -13,13 +21,6 @@ C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.csproj.AssemblyReference.cache
-C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.AssemblyInfoInputs.cache
-C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.AssemblyInfo.cs
-C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.csproj.CoreCompileInputs.cache
-C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\GerenciamentoLivros.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\PEDRA LASCADA\Documents\Teste\gerenciamento-livros\GerenciamentoLivros.API\obj\Debug\net8.0\staticwebassets\msbuild.GerenciamentoLivros.API.Microsoft.AspNetCore.StaticWebAssets.props
