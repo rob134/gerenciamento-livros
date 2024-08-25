@@ -39,7 +39,7 @@ Antes de começar, verifique se você possui as seguintes ferramentas instaladas
     dotnet run
     ```
 
-   O backend estará disponível em [http://localhost:5000](http://localhost:5000).
+   O backend estará disponível em [http://localhost:5098](http://localhost:5098).
 
 ## Configuração do Frontend
 
@@ -67,11 +67,11 @@ Antes de começar, verifique se você possui as seguintes ferramentas instaladas
 
 1. Inicie o Backend:
 
-   Navegue para o diretório do backend e execute o comando `dotnet run`. Certifique-se de que o backend está rodando e acessível em [http://localhost:5000](http://localhost:5098).
+   Navegue para o diretório do backend (GerenciamentoLivros/GerenciamentoLivros.API) e execute o comando `dotnet run`. Certifique-se de que o backend está rodando e acessível em [http://localhost:5098](http://localhost:5098).
 
 2. Inicie o Frontend:
 
-   Navegue para o diretório do frontend e execute o comando `ng serve`. O frontend estará acessível em [http://localhost:4200](http://localhost:4200).
+   Navegue para o diretório do frontend frontend (gerenciamento-livros-frontend) e execute o comando `ng serve`. O frontend estará acessível em [http://localhost:4200](http://localhost:4200).
 
 ## Testes
 
@@ -86,3 +86,12 @@ dotnet test
 Para o Frontend:
 
 Execute os testes unitários com o comando:
+
+```bash
+ng test
+
+
+## Contribuilção
+
+Sinta-se à vontade para contribuir com o projeto! Se você encontrar algum problema ou tiver uma ideia para melhorias, abra um issue ou envie um pull request.
+
