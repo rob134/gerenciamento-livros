@@ -1,0 +1,19 @@
+<div class="livro-form">
+    <h2>{{ isEditMode ? 'Editar Livro' : 'Adicionar Livro' }}</h2>
+    <form (ngSubmit)="saveLivro()">
+      <label for="titulo">Título:</label>
+      <input id="titulo" [(ngModel)]="livro.titulo" name="titulo" required>
+  
+      <label for="autor">Autor:</label>
+      <input id="autor" [(ngModel)]="livro.autor" name="autor" required>
+  
+      <label for="genero">Gênero:</label>
+      <input id="genero" [(ngModel)]="livro.genero" name="genero" required>
+  
+      <label for="ano">Ano:</label>
+      <input id="ano" type="number" [(ngModel)]="livro.ano" name="ano" required>
+  
+      <button type="submit">Salvar</button>
+    </form>
+  </div>
+  

@@ -1,0 +1,56 @@
+/* Estilo geral para a lista de livros */
+.livros-list {
+  padding: 20px;
+  background-color: #f9f9f9; /* Cor de fundo clara para a área da lista */
+  border-radius: 8px; /* Cantos arredondados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  max-width: 1000px; /* Largura máxima da lista */
+  margin: auto; /* Centraliza a lista */
+}
+
+/* Estilo para a tabela */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff; /* Cor de fundo da tabela */
+  border-radius: 8px; /* Cantos arredondados da tabela */
+  overflow: hidden; /* Esconde bordas arredondadas */
+}
+
+/* Estilo para as células da tabela */
+th, td {
+  border: 1px solid #ddd; /* Borda leve */
+  padding: 12px; /* Aumenta o padding das células */
+  text-align: left; /* Alinhamento do texto */
+}
+
+/* Estilo para o cabeçalho da tabela */
+th {
+  background-color: #007bff; /* Cor de fundo do cabeçalho */
+  color: #fff; /* Cor do texto no cabeçalho */
+  font-weight: bold; /* Texto em negrito */
+}
+
+/* Efeito de hover para as linhas da tabela */
+tr:nth-child(even):hover {
+  background-color: #f1f1f1; /* Cor de fundo das linhas em hover */
+}
+
+/* Estilo para a primeira linha (opcional) */
+tr:first-child {
+  border-top: 2px solid #007bff; /* Borda superior para a primeira linha */
+}
+
+/* Estilo para o elemento <h2> */
+h2 {
+  font-size: 24px; /* Tamanho da fonte */
+  font-weight: bold; /* Negrito */
+  color: #333; /* Cor do texto */
+  margin-bottom: 20px; /* Espaçamento abaixo do título */
+  padding-bottom: 10px; /* Espaçamento abaixo do texto */
+  border-bottom: 2px solid #007bff; /* Linha abaixo do título com a mesma cor do cabeçalho da tabela */
+  text-transform: uppercase; /* Transformar texto em maiúsculas */
+  letter-spacing: 1px; /* Espaçamento entre letras */
+  font-family: 'Arial', sans-serif; /* Fonte moderna */
+}
+
